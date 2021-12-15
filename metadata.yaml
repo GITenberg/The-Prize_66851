@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9928'
     url: http://www.gutenberg.org/2009/agents/9928
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Pearse
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grier, Sydney C.
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26562
     wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66851#The-Prize
 gutenberg_issued: '2021-11-30'
 identifiers:
   gutenberg: '66851'
